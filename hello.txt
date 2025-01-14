@@ -9,5 +9,10 @@ hello cortin! hello git!
 hello cortin! hello git!
 hello cortin! hello git!
 hello cortin! hello git!
+<<<<<<< HEAD
 hello cortin! hello git! master test
 hello cortin! hello git!
+=======
+hello cortin! hello git!
+hello cortin! hello git! hot-fix test 
+>>>>>>> hot-fix
